@@ -95,3 +95,7 @@ Yes!
 ## Can I use auto-routing software?
 
 No. You must do your routing manually. 
+
+## What is the use of streaks?
+
+Streaks increase your payout rate.
